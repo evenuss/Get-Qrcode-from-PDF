@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2VPavIkVSPozcKeDKqyKTglWqcbQCcfJaqOUzRKgC1s=",
+  "Source": "QrCodeInPdfApi",
+  "BasePath": "_content/QrCodeInPdfApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
